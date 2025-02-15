@@ -29,4 +29,7 @@ The game features a retro gaming theme with:
 ## Installation
 
 1. Clone the repository or download the project files.
+  ```javascript
+      git clone https://github.com/Jatinsharma43/Guess-My-Number.git
+   ```
 2. Open `4.html` in your web browser to play the game.
